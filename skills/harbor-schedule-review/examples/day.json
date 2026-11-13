@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-13",
+  "timezone": "America/Los_Angeles",
+  "work_start": "09:00",
+  "work_end": "18:00",
+  "minimum_gap_minutes": 30,
+  "events": [
+    {"id": "review", "start": {"dateTime": "2026-11-13T09:30:00-08:00"}, "end": {"dateTime": "2026-11-13T10:00:00-08:00"}},
+    {"id": "exercise", "start": {"dateTime": "2026-11-13T09:45:00-08:00"}, "end": {"dateTime": "2026-11-13T10:15:00-08:00"}}
+  ]
+}
